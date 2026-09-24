@@ -1,0 +1,6 @@
+apache-airflow>=2.5
+apache-airflow-providers-google
+apache-airflow-providers-postgres
+google-cloud-storage
+pandas
+gcsfs
